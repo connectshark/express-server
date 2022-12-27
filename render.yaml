@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: image-uploader
+    name: express-server
     env: node
     region: singapore
     plan: free
